@@ -1,0 +1,11 @@
+http1.1
+    it is standardization protocal which is useing still now in the market
+    which is developed by tim berner lee in 1989
+    it is loads resoures one by one so if one resoures can't be loaded
+    it is block the resoures behind it
+
+    http2
+        this is advance one which is giving advances performances
+        which is developed by google
+        it is able to use single tcp connection so it can run multible stream  data at onces
+        here no one resoures block other resourses
