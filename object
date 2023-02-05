@@ -1,0 +1,9 @@
+javascript object is collection of key  value pair
+collection of primitive data we can use inside the object
+syntax of object :
+   var  objesct name = {
+    key : value (value is in the form of number or string)
+    key : value
+   }
+   here we invoke the object
+   console.log(object name)
